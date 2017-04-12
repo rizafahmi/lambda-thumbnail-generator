@@ -1,0 +1,11 @@
+{
+  "name": "lambda-thumbnail-generator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Riza Fahmi",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.23.0",
+    "steed": "^1.1.3"
+  }
+}
